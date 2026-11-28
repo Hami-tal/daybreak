@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:uuid:a00eb455-08bd-52b9-9253-03cda35984b7</id>
+  <title>Daybreak</title>
+  <updated>2026-11-28T05:40:10Z</updated>
+  <link rel="self" href="https://hami-tal.github.io/daybreak/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="https://hami-tal.github.io/daybreak/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>Daybreak — Saturday, 28 November 2026</title>
+    <id>urn:uuid:b9b175f5-5a29-5870-a5ac-35baf100087e</id>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://hami-tal.github.io/daybreak/issues/daybreak-2026-11-28.epub" type="application/epub+zip"/>
+  </entry>
+</feed>
